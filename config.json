@@ -1,0 +1,7 @@
+{
+  "ai_db_host": "dev-artificialintelligence-cluster.cluster-ckzj0xivzwnz.us-east-1.rds.amazonaws.com",
+  "ai_db_name": "ArtificialIntelligence",
+  "ai_db_username":"ai_apps",
+  "ai_db_password":"Clave123%",
+  "ai_db_port": 3306
+}
